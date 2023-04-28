@@ -1,2 +1,7 @@
-# atividade-de-versionamento
-Repositório da atividade de versionamento 
+# 🗈 Descrição
+
+Resolução da atividade 1 da UC Versionamento
+
+# 🤝 Colaboradores
+
+[Amailson01](https://github.com/amailson01)
